@@ -23,7 +23,7 @@ export default function ScienceStatistics ({ section }) {
         labels: ['Human','Reptiloid'],
         datasets: [{
             label: "% of control",
-            data: [media_data[0]["absolute"], media_data[0]["reptiloid"]],
+            data: [media_data[0]["human"], media_data[0]["reptiloid"]],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.4)',
                 'rgba(75, 192, 192, 0.4)'

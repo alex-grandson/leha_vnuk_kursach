@@ -22,7 +22,7 @@
       {
         "id": 1,
         "country_id": 1,
-        "absolute": 100,
+        "human": 100,
         "reptiloid": 48
       }
     ],
@@ -30,7 +30,7 @@
       {
         "id": 1,
         "country_id": 1,
-        "absolute": 100,
+        "human": 100,
         "reptiloid": 56
       }
     ],
@@ -38,7 +38,7 @@
       {
         "id": 1,
         "country_id": 1,
-        "absolute": 30,
+        "human": 30,
         "reptiloid": 12
       }
     ]

@@ -22,7 +22,7 @@ export default function EconomicsStatistic ({ section }) {
         labels: ['Human','Reptiloid'],
         datasets: [{
             label: "% of control",
-            data: [economics_data[0]["absolute"], economics_data[0]["reptiloid"]],
+            data: [economics_data[0]["human"], economics_data[0]["reptiloid"]],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.4)',
                 'rgba(75, 192, 192, 0.4)'
